@@ -6,4 +6,4 @@ Public legal & support pages for the **Mojiokoshi** iOS app, served via GitHub P
 - `support.html` — Support & FAQ (JA / EN)
 - `index.html` — Landing
 
-Contact: gyou.gi@glspace.co.jp
+Contact: support@glspace.co.jp
